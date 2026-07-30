@@ -19,9 +19,8 @@ Welcome to my official GitHub! I create educational content around **Gaming and 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
 ### 📊 Activity
-
-![AD CodeX Stats](https://github-readme-stats.vercel.app/api?username=adcodex&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adcodex&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adcodex&show_icons=true&theme=dark" width="48%" alt="AD CodeX Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcodex&layout=compact&theme=dark" width="45%" alt="Top Languages" />
+</p>
